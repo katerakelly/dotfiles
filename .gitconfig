@@ -1,0 +1,23 @@
+[user]
+    name = Kate Rakelly
+    email = krakelly@berkeley.edu
+
+[alias]
+    l = log --oneline --decorate
+    lp = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    c = commit
+    p = push
+    pf = push --force
+    s = status
+    r = rebase
+    ri = rebase -i HEAD~
+    rc = rebase --continue
+    co = checkout
+    cob = checkout -b
+    fa = fetch --all
+    a = add
+    r = remove
+    pull = pull --rebase
+
+[core]
+    editor = vim

@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/rakelly/rlkit/output/proto-sac-point-mass-16z-TEST/proto-sac-point-mass-16z-TEST'
+let g:netrw_dirhist_2='/home/rakelly/rlkit/rlkit/core/__pycache__'
+let g:netrw_dirhist_3='/home/rakelly/rlkit/rlkit'
+let g:netrw_dirhist_4='/home/rakelly/rlkit'
+let g:netrw_dirhist_5='/home/rakelly'
+let g:netrw_dirhist_6='/home'
